@@ -5,7 +5,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 
-var arr = [];
+var arr = [];    
 
 export default function Heading() {
     const [item, setItem] = useState(Product)
